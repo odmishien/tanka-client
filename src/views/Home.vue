@@ -8,7 +8,7 @@
     <b-row align-v="center">
       <b-col>
         <router-link to="/create-room">
-          <b-button variant="outline-primary">スタート</b-button>
+          <b-button block variant="outline-success">スタート</b-button>
         </router-link>
       </b-col>
     </b-row>
